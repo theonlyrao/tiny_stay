@@ -1,8 +1,8 @@
 ## Tiny Stay: AirBnB for Tiny Homes
-[live](http://tinystay.herokuapp.com/)
+[live on heroku](http://tinystay.herokuapp.com/)
 
 ### Demo
-![](app/assets/images/demo.gi)
+![](app/assets/images/demo.gif)
 
 ### Overview
 This site was built by Ashwin Rao, Josh Washke and Patrick Hardy in the first week of module 3 at the Turing School of Software and Design. 
